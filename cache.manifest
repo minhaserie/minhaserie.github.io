@@ -1,17 +1,5 @@
-{
-  "version": "1.0",
-  "name": "Minha Série",
-  "description": "Todas as notícias a respeito das séries prediletas dos brasileiros estão neste site, que conta também com informações sobre artistas e episódios. Além disso, os fãs são convidados a debater e atribuir notas às séries.",
-  "launch_path": "/index.html",
-  "icons": {
-    "60": "/images/mserie60.png",
-    "128": "/images/mserie128.png"
-  },
-  "developer": {
-    "name": "No Zebra Network Ltda",
-    "url": "http://www.gruponzn.com/"
-  },
-  "installs_allowed_from": ["*"],
-  "appcache_path": "/cache.manifest",
-  "default_locale": "pt-BR"
-}
+CACHE MANIFEST
+# v1 2013-07-01
+index.html
+images/mserie60.png
+images/mserie128.png
